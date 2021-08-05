@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100px;
+    border-radius: 0px 0px 40px 40px;
+}
+
+.main__title {
+    color: blue;
+    font-size: 25px;
+}
+
+.Cuadrado{
+    background: linear-gradient(#DE6DC4, #DB18AE);
+}
+
+.Triangulo {
+    background: linear-gradient(#87D5E3, #3EB5CA);
+}
+
+.Circulo {
+    background: linear-gradient(#DBE19E, #C9D832);
+}
+
+.header__img{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
